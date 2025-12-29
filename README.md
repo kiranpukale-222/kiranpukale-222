@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=
 Data+Scientist+%7C+Business+Intelligence;Machine+Learning;Gen+AI;;Turning+Data+into+Actionable+Insights" alt="I SEE DATA, EVERYWHERE I LOOK!" />
 </div>
-<h3 align="center">Data Analyst | Machine Learning |Gen AI</h3>
+<h3 align="center">Data Analyst | Machine Learning | Gen AI</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/kiranpukale"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -52,10 +52,10 @@ I enjoy continuous learning and problem-solving, I love the "aha!" moment when d
 
 #### Machine Learning
 <p>
-  <img src="https://img.shields.io/badge/Supervised + Unsupervised%2Learning%20-FF6B6B?style=flat" />
+  <img src="https://img.shields.io/badge/Supervised%20%7C%20Unsupervised%20Learning-FF6B6B?style=flat" />
   <img src="https://img.shields.io/badge/Scikit--learn-Intermediate-4ECDC4?style=flat" /> 
-  <img src="https://img.shields.io/badge/Regression-Linear%20%7C%20Multiple-Intermediate-4CAF50?style=flat" />
-  <img src="https://img.shields.io/badge/Classification-Logistic%20%7C%20KNN-Intermediate-9C27BO?style=flat" />
+  <img src="https://img.shields.io/badge/Regression-Linear%20%7C%20Multiple%20%28Intermediate%29-4CAF50?style=flat" />
+  <img src="https://img.shields.io/badge/Classification-Logistic%20%7C%20KNN%20%28Intermediate%29-9C27B0?style=flat" />
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" a/>
   <img src="https://img.shields.io/badge/Model-Pipeline%Evaluation-RSME-XGBoost%20%7C%20Accuracy-Intermediate-E91E63?style=flat" />
 </p>
