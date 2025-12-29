@@ -52,7 +52,7 @@ I enjoy continuous learning and problem-solving, I love the "aha!" moment when d
 
 #### Machine Learning
 <p>
-  <img src="https://img.shields.io/badge/Supervised--Unsupervised%2FLearning%20-Intermediate-FF6B6B?style=flat" />
+  <img src="https://img.shields.io/badge/Supervised + Unsupervised%2Learning%20-FF6B6B?style=flat" />
   <img src="https://img.shields.io/badge/Scikit--learn-Intermediate-4ECDC4?style=flat" /> 
   <img src="https://img.shields.io/badge/Regression-Linear%20%7C%20Multiple-Intermediate-4CAF50?style=flat" />
   <img src="https://img.shields.io/badge/Classification-Logistic%20%7C%20KNN-Intermediate-9C27BO?style=flat" />
@@ -64,6 +64,6 @@ I enjoy continuous learning and problem-solving, I love the "aha!" moment when d
 <p>
   <img src="https://img.shields.io/badge/A%2FB%20Testing-Intermediate--FF6B6B?style=flat" alt="A/B Testing Skill Badge">
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Data%20Visualization-Power%20BI%20%7C%20Tableau-Intermediate-FF9800?style=flat" alt="Data Visualization Tools Badge">
+  <img src="https://img.shields.io/badge/Data%20Visualization-Power%20BI%20%7C%20Tableau-FF9800?style=flat" alt="Data Visualization Tools Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
