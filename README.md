@@ -1,13 +1,14 @@
 ## Hi there, I'm Kiran Pukale 👋
 
 <div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Machine+Learning;Gen+AI;I SEE DATA EVERYWHERE I LOOK!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=
+Data+Scientist+%7C+Business+Intelligence;Machine+Learning;Gen+AI;;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
 </div>
+<h3 align="center">Data Analyst | Machine Learning |Gen AI</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/kiranpukale><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:kiranpukale027@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/in/kiranpukale><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:kiranpukale027@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ## 🚀 About Me 
