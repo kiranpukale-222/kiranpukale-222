@@ -2,9 +2,7 @@
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=
-Data+Scientist+%7C+Business+Intelligence;Machine+Learning;Gen+AI;;Turning+Data+into+Actionable+Insights" alt="typing SVG" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+Business+Intelligence;Machine+Learning;Gen+AI;;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Data Analyst | Machine Learning | Gen AI</h3>
