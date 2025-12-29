@@ -7,7 +7,7 @@ Data+Scientist+%7C+Business+Intelligence;Machine+Learning;Gen+AI;;Turning+Data+i
 <h3 align="center">Data Analyst | Machine Learning |Gen AI</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/kiranpukale><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/kiranpukale"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:kiranpukale027@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
